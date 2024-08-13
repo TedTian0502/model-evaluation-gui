@@ -30,7 +30,7 @@
 ![picture_1](./images/window_4.png)
 ### 5.特徵變數，輸入閾值 0.51 得到特徵變數"RM"、"LSTAT"
 ![picture_1](./images/window_5.png)
-### 6.未查看'特徵變數'則跳出提醒
+### 6.若要查看'模型評分'則需先選擇'特徵變數'
 ![picture_1](./images/window_6.png)
 ### 7.閾值為 0.51 模型符合與分數
 ![picture_1](./images/window_7.png)
