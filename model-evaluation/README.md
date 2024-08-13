@@ -28,14 +28,14 @@
 峰度(Kurtosis): 0.07 
 ### 4.特徵變數，閾值最初設為 0.4 得到的特徵變數
 ![picture_1](./images/window_4.png)
-### 4_1.新增模型分數
-![picture_1](./images/window_4_1.png)
 ### 5.特徵變數，輸入閾值 0.51 得到特徵變數"RM"、"LSTAT"
 ![picture_1](./images/window_5.png)
-### 6.閾值為 0.51 模型分數
+### 6.未查看'特徵變數'則跳出提醒
 ![picture_1](./images/window_6.png)
-### 7.離開前提醒
+### 7.閾值為 0.51 模型符合與分數
 ![picture_1](./images/window_7.png)
+### 8.離開前提醒
+![picture_1](./images/window_8.png)
 
 ---
 
